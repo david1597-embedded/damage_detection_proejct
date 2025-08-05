@@ -22,11 +22,26 @@
 
 # Work Folder
 
-vehicle_damage_dection_project\
-|----images_to_detect(for your project)\
-|----|----images
-|----|----json
------
+├── 📁 images/ # 예측을 진행할 자동차 외관 이미지 (raw 및 전처리된 이미지)
+│    ├── images/
+│    ├── json/
+├── 📁 models/
+│     ├── efficientdet/
+│     │   └── saved_model/
+│     │       ├── assets/
+│     │       ├── variables/
+│     │       │   ├── variables.data-00000-of-00001/
+│     │       │   └── variables.index/
+│     │       └── saved_model.pb/
+│     ├── ssdmobilenet/
+│         └── saved_model/
+│         ├── assets/
+│             ├── variables/
+│             │   ├── variables.data-00000-of-00001/
+│             │   └── variables.index/
+|          └── saved_model.pb/
+├─  🐍 main.py
+
 ---
 # ScreenShot
 
