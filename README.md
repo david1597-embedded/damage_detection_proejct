@@ -20,6 +20,14 @@
 
 ---
 
+# Work Folder
+
+vehicle_damage_dection_project\
+|----images_to_detect(for your project)\
+|----|----images
+|----|----json
+-----
+---
 # ScreenShot
 
 ## GUI (Manual Mode)
@@ -71,5 +79,6 @@ source venv/bin/activate
 pip install -r requirements.py
 python main.py
 ```
+
 
 
