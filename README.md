@@ -22,38 +22,34 @@
 
 # 📁 Work Folder
 
-├── 📁 images                 # 예측을 진행할 자동차 외관 이미지
-│   ├── images
-│   └── json
-│
-├── 📁 models                 # 사전 학습된 모델 저장 디렉토리
-│   ├── efficientdet
-│   │   └── saved_model
-│   │       ├── assets
-│   │       ├── variables
-│   │       │   ├── variables.data-00000-of-00001
-│   │       │   └── variables.index
-│   │       └── saved_model.pb
-│   │
-│   ├── ssdmobilenet
-│       └── saved_model
-│           ├── assets
-│           ├── variables
-│           │   ├── variables.data-00000-of-00001
-│           │   └── variables.index
-│           └── saved_model.pb
-│
-├── 📁 results
-│   ├── model_result
-│   │   └── 모델 별 결과와, 전체결과에 대한 분석이 csv 파일로 저장됨
-├── 🐍 main.py               # 실행 파일 (예측 실행용)
+├── 📁 images                 # 예측을 진행할 자동차 외관 이미지\
+│   ├── images\
+│   └── json\
+│\
+├── 📁 models                 # 사전 학습된 모델 저장 디렉토리\
+│   ├── efficientdet\
+│   │   └── saved_model\
+│   │       ├── assets\
+│   │       ├── variables\
+│   │       │   ├── variables.data-00000-of-00001\
+│   │       │   └── variables.index\
+│   │       └── saved_model.pb\
+│   │\
+│   ├── ssdmobilenet\
+│       └── saved_model\
+│           ├── assets\
+│           ├── variables\
+│           │   ├── variables.data-00000-of-00001\
+│           │   └── variables.index\
+│           └── saved_model.pb\
+│\
+├── 📁 results\
+│   ├── model_result\
+│   │   └── 모델 별 결과와, 전체결과에 대한 분석이 csv 파일로 저장됨\
+├── 🐍 main.py               # 실행 파일 (예측 실행용)\
 
 
-[모델 다운로드 링크](https://drive.google.com/file/d/1RqXMzyd_pvzwulrBYhJtmWC1bSAP_3Of/view?usp=drive_link)
 
-현재 작업 디렉토리에 그대로 추가
-
----
 
 
 [📥 모델 다운로드 링크](https://drive.google.com/file/d/1RqXMzyd_pvzwulrBYhJtmWC1bSAP_3Of/view?usp=drive_link)  
