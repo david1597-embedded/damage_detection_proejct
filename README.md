@@ -1,7 +1,7 @@
 # 🚗 자동차 외관 손상 탐지 시스템 개발 프로젝트
  
 <p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="Damage Detection Project Banner" />
+  <img src="https://i.imgur.com/yourimage.png" alt="Project Banner" />
 </p>
 
 ![Detection Model](https://img.shields.io/badge/Detection-EfficientDet%20D0-blue)
