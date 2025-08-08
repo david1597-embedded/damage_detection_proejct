@@ -103,8 +103,8 @@
 
 
 ```
-git clone https://github.com/david1597-embedded/game_recommendation.git
-cd game_recommendation
+git clone [https://github.com/david1597-embedded/game_recommendation.git](https://github.com/david1597-embedded/damage_detection_proejct.git)
+cd damage_detection_project
 ```
 
 ### 💻Windows
